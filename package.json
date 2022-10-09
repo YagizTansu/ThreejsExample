@@ -1,0 +1,23 @@
+{
+  "name": "threejsexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YagizTansu/ThreejsExample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YagizTansu/ThreejsExample/issues"
+  },
+  "homepage": "https://github.com/YagizTansu/ThreejsExample#readme",
+  "dependencies": {
+    "@types/three": "^0.144.0"
+  }
+}
